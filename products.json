@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Notebook ASUS Vivobook Go 14 14” Intel Celeron 4GB 128GB E410MA-BV1181W",
+        "price": 449999,
+        "category": "notebook"
+    },
+    {
+        "name": "Notebook HP 14” Intel Core i3 4GB 256GB SSD 14-DQ2543LA",
+        "price": 829999,
+        "category": "notebook"
+    },
+    {
+        "name": "Notebook Lenovo Ideapad 1 14igl7 Platinum Gray 14 , Intel Dual Core N4020, 4gb Ram, 128gb SSD, Windows 11 Home S",
+        "price": 367999,
+        "category": "notebook"
+    },
+    {
+        "name": "Notebook ASUS Vivobook 15 15.6” Ryzen 5 8GB 512GB SSD M1502QA-BQ088W",
+        "price": 999999,
+        "category": "notebook"
+    },
+    {
+        "name": "Notebook Samsung 15.6” Intel Core i7 10 Núcleos 512GB 16GB Galaxy Book3 NP750XFG-KB1A Silver",
+        "price": 1599999,
+        "category": "notebook"
+    },
+    {
+        "name": "Aire Acondicionado Split Frío/Calor Carrier XPower Inverter 3450W 2900F 53HVG1201E",
+        "price": 799999,
+        "category": "aire Acondicionado"
+    },
+    {
+        "name": "Aire Acondicionado Split Frío/Calor TCL TACA-6400FCSA 5500F 6400W",
+        "price": 1049999,
+        "category": "aire Acondicionado"
+    },
+    {
+        "name": "Heladera Cíclica Drean 277Lts HDR280F00B Blanco",
+        "price": 609999,
+        "category": "heladera"
+    },
+    {
+        "name": "Heladera No Frost Inverter Samsung RT38K5932SL 396Lt",
+        "price": 1299799,
+        "category": "heladera"
+    },
+    {
+        "name": "Cocina Escorial Candor S2 Gas Natural 51 Cm",
+        "price": 229999,
+        "category": "cocina"
+    },
+    {
+        "name": "Cocina Escorial Master Style MASST56I Multigas 56CM Inoxidable",
+        "price": 406999,
+        "category": "cocina"
+    },
+    {
+        "name": "Lavarropas Carga Superior Gafa 7 Kg 750 RPM Fuzzy Fit",
+        "price": 569999,
+        "category": "lavarropas"
+    },
+    {
+        "name": "Lavarropas Samsung Carga frontal 7kg Inox WW70AA46BX",
+        "price": 799999,
+        "category": "lavarropas"
+    },
+    {
+        "name": "Secarropas Centrifugo Drean QV 5.5Kg",
+        "price": 144999,
+        "category": "secarropas"
+    },
+    {
+        "name": "Secarropas Centrifugo KOH-I-NOOR C-755/2 5.5Kg",
+        "price": 189999,
+        "category": "secarropas"
+    },
+    {
+        "name": "Pava Electrica Jarra Liliana Matera Ap165 1.7 Lts 2000w",
+        "price": 24990,
+        "category": "pava electrica"
+    },
+    {
+        "name": "Pava Eléctrica Philips HD9368/00",
+        "price": 45999,
+        "category": "pava electrica"
+    },
+    {
+        "name": "Cafetera de FIltro ATMA CA2180P",
+        "price": 20999,
+        "category": "cafetera"
+    },
+    {
+        "name": "Cafetera Dolce Gusto Piccolo XS PV1A0858",
+        "price": 199999,
+        "category": "cafetera"
+    },
+    {
+        "name": "Licuadora de Mesa Peabody PE-LN805B",
+        "price": 56999,
+        "category": "licuadora"
+    }
+]
